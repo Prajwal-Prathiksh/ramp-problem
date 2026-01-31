@@ -1,0 +1,1 @@
+A quick solution to calculate daily transaction totals and rolling averages from a SQLite database using Python and Pandas.
